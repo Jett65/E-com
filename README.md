@@ -39,4 +39,4 @@ For any questions contact me at: jettc505@gmail.com:
 
 ## Video links
 
-![Video](https://github.com/Jett65/E-com/blob/main/Assets/e-com.mkv)
+[Video](https://github.com/Jett65/E-com/blob/main/Assets/e-com.mkv)
