@@ -12,6 +12,8 @@ This project is the backend for a website used by a company to create update and
 
 [Usage](#usage)
 
+[Images](#images)
+
 [Contributing](#contributing)
 
 [Questions](#questions)
@@ -23,6 +25,10 @@ This project is the backend for a website used by a company to create update and
 ## Usage
 
 This project is used as a backed for a website
+
+## Images
+
+
 
 ## Questions
 
