@@ -29,6 +29,7 @@ This project is used as a backed for a website
 ## Images
 
 ![](https://github.com/Jett65/E-com/blob/main/Assets/Screenshot_20230117_094616.png)
+![](https://github.com/Jett65/E-com/blob/main/Assets/Screenshot_20230117_094631.png)
 
 ## Questions
 
